@@ -50,7 +50,7 @@ const AboutPage = () => {
             data-theme="dark"
           >
             <p lang="en" dir="ltr">
-              Why?
+              Why??
               <br />
               <br />
               The idea behind this was out of a personal need — I receive a
