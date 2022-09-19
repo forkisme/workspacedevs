@@ -29,7 +29,7 @@ const AboutPage = () => {
       />
       <Header />
       <div>
-        There are those who <i>need</i> help and then there are those who{" "}
+       - There are those who <i>need</i> help and then there are those who{" "}
         <b>can</b> help. <br />
         <br />
         This space is to help bridge that gap within the Google Workspace
